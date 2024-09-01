@@ -1,0 +1,17 @@
+googletrans
+flask
+numpy
+pandas
+opencv-python
+underthesea
+pyvi
+translate
+faiss-cpu
+ftfy
+regex
+tqdm
+matplotlib
+langdetect
+rapidfuzz
+sentence_transformers
+
